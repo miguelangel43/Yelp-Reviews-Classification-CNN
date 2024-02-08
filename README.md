@@ -12,6 +12,3 @@ I processed the text data using Python 3 and its _nltk_ package. This consisted 
 I trained a CNN with learning rate of 0.0005 on the first 20,000 reviews and only the first 20 words (without stopwords) of every review. I tested it on 200 unseen reviews and got an accuracy of 38%, which almost doubles the accuracy of a random guess.
 
 To reproduce the same results shown in the report, run _NLP_Assignment.ipynb_ (preferably on Google Colab) with the file _yelp_20200.csv_ in the same directory.
-
-Miguel Angel Garcia-Gutierrez Espina
-No. Matr.: 21A355
